@@ -1,0 +1,9 @@
+{
+    "manifest_version" : 3,
+    "name" : "Hello Extensions" ,
+    "version" : "1.0" ,
+    "actrion" : {
+        "default_popup" : "hello.html" ,
+        "default_icon" : "hello_extension.png"
+    }
+}
